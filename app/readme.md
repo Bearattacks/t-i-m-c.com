@@ -1,7 +1,5 @@
-# Post Schoo Site
-The personal website has long been at the crux of what the internet is about. Personal sites are esoteric in nature and the design reflects presentation rather than representation.
-
-This is site is an honest approach to have my personal site represent myself and my projects.
+# Personal Site
+"Representation over presentation"
 
 ## Goals:
 - Defy norms of interaction and design patterns
