@@ -1,15 +1,15 @@
-# Tim's New Site
+# Post Schoo Site
 The personal website has long been at the crux of what the internet is about. Personal sites are esoteric in nature and the design reflects presentation rather than representation.
 
-This is site is an honest approach of what I want my personal website to be.
+This is site is an honest approach to have my personal site represent myself and my projects.
 
-# Goals:
+## Goals:
 - Defy norms of interaction and design patterns
 - Introduce subtle pieces of personality
 - Be technically proficient 
 - Modular enough to change with content and time 
 
-# Systems and features:
+## Systems and features:
 - Typographic and Color system (obviously)
 - interaction pattern 
 - Content tagging
@@ -17,7 +17,7 @@ This is site is an honest approach of what I want my personal website to be.
 - Random bad advice?
 - animated favicons, titles etc. 
 
-# Organizing Content
+## Organizing Content
 - Type/Category
 - Time 
 - Location
