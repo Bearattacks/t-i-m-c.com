@@ -28,9 +28,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	line-height: 1;
-}
 ol, ul {
 	list-style: none;
 }
@@ -48,11 +45,12 @@ table {
 }
 
 body {
-    background: #fafafa;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size:1.7em;
     line-height: 1.4em;
-    color: #333;
+    color: white;
+    background-color: #1c1c20;
+
 }
 
 nav {
@@ -72,13 +70,28 @@ ul {
 	list-style-type: none;
 }
 
+#topbar {
+	position: fixed;
+	top:40px;
+	right:20px;
+	li {
+			display: inline;
+	}
+}
+
+
 #project-container {
 	width: 1200px;
 	margin: 0 auto;
 }
 
+.project {
+	margin-bottom: 90px;
+	text-align: center;
+}
+
 .project-img {
 	width: 1200px;
-	height: 400px;
+	height: 600px;
 	background-color: #e3e3e3;
 }

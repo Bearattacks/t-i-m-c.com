@@ -14,13 +14,13 @@ This is site is an honest approach of what I want my personal website to be.
 - interaction pattern 
 - Content tagging
 - Natural language with tags built in
-- Random bad advice? 
+- Random bad advice?
+- animated favicons, titles etc. 
 
-# Content
-The content is defined by being a project. 
-- Design Projects
-- Writing (post beginning paragraph and link to medium)
-- Music
-- Video
+# Organizing Content
+- Type/Category
+- Time 
+- Location
+
 
 *Online Now*
